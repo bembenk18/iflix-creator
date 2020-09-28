@@ -90,8 +90,7 @@ $banyak = trim(fgets(STDIN));
 for ($i = 0; $i < $banyak ; $i++) {
 	create_iflix();
 }
-echo "\n\n\nThanks to Mr.Tenwap && all member ANONCYBERTEAM\n";
-echo "Result save in result_iflix.txt\n";
+echo "Hasil kesimpen di result_iflix.txt\n";
 
 
 
