@@ -8,4 +8,4 @@ Tool untuk membuat akun iflix unlimited
 3. Jalankan perintah
     php run.php
     
-wa.me/6282142805407
+https://api.whatsapp.com/send?phone=6282142805407&text=&source=&data=&app_absent=
